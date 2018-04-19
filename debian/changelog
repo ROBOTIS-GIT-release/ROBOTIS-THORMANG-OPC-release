@@ -1,0 +1,34 @@
+ros-kinetic-thormang3-opc (0.3.0-0jessie) jessie; urgency=high
+
+  * refactoring to release
+  * updated yaml files
+  * updated balance param
+  * updated walking balance
+  * Contributors: Zerom, Kayman, SCH, Pyo
+
+ -- Pyo <pyo@robotis.com>  Fri, 30 Mar 2018 15:00:00 -0000
+
+ros-kinetic-thormang3-opc (0.2.0-0jessie) jessie; urgency=high
+
+  * added thormang3_offset_tuner_client package
+  * Contributors: Kayman
+
+ -- Pyo <pyo@robotis.com>  Thu, 18 Aug 2016 15:00:00 -0000
+
+ros-kinetic-thormang3-opc (0.1.0-0jessie) jessie; urgency=high
+
+  * first public release for Kinetic
+  * added thormang3_motion_script
+  * added thormang3_action_msgs
+  * added demo: manipulation, walking
+  * added description in package.xml
+  * modified thormang3_offset_tuner_client: dynamic UI
+  * modified thormang3_foot_step_generator for realtime control
+  * modified thormang3_demo for thormang3_foot_step_generator
+  * modified name of thormang3_motion_script_player to thormang3_action_script_player
+  * ROS C++ coding style is applied
+  * Contributors: Jay Song, Zerom, Kayman, Pyo
+
+ -- Pyo <pyo@robotis.com>  Wed, 17 Aug 2016 15:00:00 -0000
+
+
