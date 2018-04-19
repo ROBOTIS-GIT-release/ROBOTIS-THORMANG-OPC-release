@@ -1,0 +1,24 @@
+ros-kinetic-thormang3-action-script-player (0.3.0-0xenial) xenial; urgency=high
+
+  * refactoring to release
+  * updated balance param
+  * Contributors: Zerom, Kayman, SCH, Pyo
+
+ -- Pyo <pyo@robotis.com>  Fri, 30 Mar 2018 15:00:00 -0000
+
+ros-kinetic-thormang3-action-script-player (0.2.0-0xenial) xenial; urgency=high
+
+  * added thormang3_offset_tuner_client package
+
+ -- Pyo <pyo@robotis.com>  Thu, 18 Aug 2016 15:00:00 -0000
+
+ros-kinetic-thormang3-action-script-player (0.1.0-0xenial) xenial; urgency=high
+
+  * first public release for Kinetic
+  * ROS C++ coding style is applied
+  * modified name of thormang3_motion_script_player to thormang3_action_script_player
+  * Contributors: Jay Song, Kayman, Pyo
+
+ -- Pyo <pyo@robotis.com>  Wed, 17 Aug 2016 15:00:00 -0000
+
+
